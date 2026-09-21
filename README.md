@@ -303,6 +303,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
 - [ ] [Coursera’s Deep Learning](https://www.coursera.org/specializations/deep-learning)
+- [ ] [QuiddityML: short ML lessons with hands-on exercises and spaced repetition](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=machine-learning-for-software-engineers)
 
 ## Resources
 - [ ] [Absolute Beginning into Machine Learning](https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc)
